@@ -33,3 +33,20 @@
 ¡Bienvenidos a ZooCasa, donde cuidamos a cada mascota como si estuviera en su hogar! Descubre nuestra variedad de productos y servicios pensados para el bienestar y felicidad de tu compañero peludo. Visítanos en línea o en nuestra tienda física y deja que tu mascota viva la experiencia ZooCasa. #BienestarAnimal #ZooCasa
 
 Este tono de marca refleja nuestra pasión por los animales y nuestro compromiso de ofrecerte lo mejor para tu querida mascota. ¡Esperamos que te sientas parte de nuestra familia ZooCasa!
+
+## Redes Sociales
+
+### Propuesta 1:
+
+**Publicación:**
+🐾 ¡Hola humanos! Soy [nombre de tu mascota], el residente más feliz de ZooCasa. Aquí siempre encontramos los mejores juguetes y deliciosos bocadillos. ¡Ven y únete a nuestra familia ZooCasa para consentir a tu peludo amigo como se merece! 🐶😺 #ZooCasa #AmorAnimal
+
+### Propuesta 2:
+
+**Publicación:**
+🐾 ¡Hola amigos peludos y humanos! En ZooCasa no solo vendemos, ¡amamos lo que hacemos! Desde alimentos naturales hasta accesorios que hacen feliz a cualquier cola peluda. ¡Visítanos y descubre por qué somos el hogar perfecto para tus mascotas! 🐾 #BienestarAnimal #ZooCasa
+
+### Propuesta 3:
+
+**Publicación:**
+🐾 ¿Buscas el mejor lugar para consentir a tu mascota? ¡No busques más! En ZooCasa, cada día es un día de diversión y cuidado excepcional. Ven y conoce nuestra selección de productos premium y servicios especializados. Tu mascota se lo merece. 🐾 #ZooCasa #CuidadoAnimal
