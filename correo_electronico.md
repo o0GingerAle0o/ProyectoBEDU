@@ -1,4 +1,4 @@
-Correo Electrónico
+# Correo Electrónico
 
 **Objetivo:** Crear una conexión directa y personalizada con los clientes, proporcionando información relevante y promociones.
 
