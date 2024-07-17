@@ -379,6 +379,8 @@ Consideramos que el análisis de nuestra marca ZooCasa presenta alucinaciones ya
 
 En nuestra búsqueda orgánica. La marca LAIKA tiene su sitio web caído y la marca +Kota está en bancarrota. Por tanto, no podemos incluir a estas 2 marcas como comparativas para nuestro estudio.
 
+![imagen5](Imagen5.png)
+
 En la planeación de la marca, llámese nombre, misión, visión, valores y tono de marca de manera orgánica y consensuada dimos el orden de puntos clave a través de los prompt con palabra clave como:
 
 ### Aquí tienes 10 calificativos o palabras clave que describen la personalidad de ZooCasa basada en el tono de marca proporcionado:
