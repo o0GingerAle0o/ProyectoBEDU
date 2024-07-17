@@ -37,3 +37,45 @@ Para celebrar tu llegada a nuestra manada, te ofrecemos un 10% de descuento en t
 
 Con cariño y ladridos,
 [nombre de tu mascota] y el equipo de ZooCasa
+
+## Propuesta 1:
+
+**Subject:** ¡Hola humano! 🐾 Explora ZooCasa con un 10% de descuento
+
+**Texto del Correo:**
+¡Hola humano!
+
+Soy [nombre de tu mascota], el más feliz residente de ZooCasa. Aquí encontramos los mejores juguetes y deliciosos bocadillos. Queremos celebrar tu llegada con un 10% de descuento en tu primera compra. Usa el código BIENVENIDO10 y consiente a tu amigo peludo como se merece.
+
+Visítanos en línea o en nuestra tienda física y descubre por qué en ZooCasa, tu mascota siempre es la estrella.
+
+Ladridos y ronroneos,
+[nombre de tu mascota] y el equipo de ZooCasa
+
+## Propuesta 2:
+
+**Subject:** ¡Hola amigos peludos y humanos! 🐶😺 Descubre ZooCasa
+
+**Texto del Correo:**
+¡Hola amigos peludos y humanos!
+
+En ZooCasa, no solo vendemos, ¡amamos lo que hacemos! Desde alimentos naturales hasta accesorios que hacen feliz a cualquier cola peluda. Te invitamos a explorar nuestra tienda con un 10% de descuento en tu primera compra. Usa el código BIENVENIDO10 y haz que tu mascota se sienta como en casa.
+
+¡Te esperamos con los brazos (y las patas) abiertos!
+
+Con cariño y ladridos,
+[nombre de tu mascota] y el equipo de ZooCasa
+
+## Propuesta 3:
+
+**Subject:** ¡Ven a ZooCasa, donde el cuidado es nuestra prioridad! 🐾
+
+**Texto del Correo:**
+¡Hola amigo de las mascotas!
+
+¿Buscas el mejor lugar para consentir a tu compañero peludo? En ZooCasa, cada día es una celebración de amor y cuidado excepcional. Únete a nuestra familia y disfruta de un 10% de descuento en tu primera compra. Usa el código BIENVENIDO10 y descubre por qué cuidamos a cada mascota como si estuviera en casa.
+
+¡Esperamos verte pronto en ZooCasa!
+
+Ladridos y ronroneos,
+[nombre de tu mascota] y el equipo de ZooCasa
