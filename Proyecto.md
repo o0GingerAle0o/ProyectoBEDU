@@ -247,23 +247,28 @@ Espero que estos enunciados te ayuden a transmitir la esencia de ZooCasa y su co
 - Cremación y entierro.
 - Urnas y recuerdos personalizados.
 - Apoyo emocional para dueños.
-
-## Lista de Alimentos para Mascotas
+- Lista de Alimentos para Mascotas
 
 ### Perros:
 - Alimento seco y húmedo.
 - Dietas especiales (sin granos, hipoalergénicas).
 - Suplementos vitamínicos y minerales.
 
+![imagen uno](imagen1.jpg)
+
 ### Gatos:
 - Alimento seco y húmedo.
 - Alimentos para gatos con necesidades específicas (esterilizados, mayores).
 - Golosinas y snacks.
 
+![imagen dos](imagen2.jpg)
+
 ### Aves:
 - Mezclas de semillas.
 - Suplementos nutricionales.
 - Alimento específico para diferentes tipos de aves (loros, canarios).
+
+![imagen tres](imagen3.jpg)
 
 ### Peces:
 - Alimento en escamas y pellets.
@@ -298,6 +303,8 @@ Espero que estos enunciados te ayuden a transmitir la esencia de ZooCasa y su co
 - Análisis de sangre y orina.
 - Radiografías y ecografías.
 - Exámenes dermatológicos.
+
+![imagen cuatro](imagen4.jpg)
 
 Para proporcionarte una comparación detallada entre los sitios web de Pet City (https://petcity.mx/) y Petco México (https://www.petco.com.mx/petco/en/) con respecto a lo que ofrece ZooCasa, vamos a analizar sus fortalezas, debilidades, amenazas y oportunidades. A continuación, te doy un análisis basado en la información disponible en sus sitios web y en consideraciones generales del mercado de mascotas en México:
 
