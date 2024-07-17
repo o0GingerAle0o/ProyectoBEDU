@@ -1,7 +1,6 @@
 # PROYECTO TIENDA DE MASCOTA ZOOCASA
 
 ¡Claro, Ale! Aquí tienes cinco ideas para nombres de tu tienda de mascotas:
-
 - PetHaven
 - Animalia
 - Mascotitos
@@ -9,7 +8,6 @@
 - Petlandia
 
 Claro, aquí tienes otras cinco opciones para el nombre de tu tienda de mascotas:
-
 - PetMundo
 - MascotiClub
 - ZooCasa
@@ -124,10 +122,10 @@ Espero que estos enunciados te ayuden a transmitir la esencia de ZooCasa y su co
 
 ### 1. Correo Electrónico
 
-#### Objetivo
+#### Objetivo:
 Crear una conexión directa y personalizada con los clientes, proporcionando información relevante y promociones.
 
-#### Estrategia
+#### Estrategia:
 - **Lista de Correo**: Recopilar direcciones de correo electrónico a través de la tienda física, el sitio web y las redes sociales.
 - **Boletín Semanal**: Enviar un boletín semanal con:
   - Novedades de productos y servicios.
@@ -142,10 +140,10 @@ Crear una conexión directa y personalizada con los clientes, proporcionando inf
 
 ### 2. Publicaciones en Redes Sociales
 
-#### Objetivo
+#### Objetivo:
 Aumentar la visibilidad de la tienda y fomentar la interacción y lealtad de los clientes.
 
-#### Estrategia
+#### Estrategia:
 - **Presencia en Redes Sociales**: Mantener perfiles activos en Facebook, Instagram, TikTok y YouTube.
 - **Contenido Visual**:
   - Publicar fotos y videos de mascotas felices usando productos de ZooCasa.
@@ -163,10 +161,10 @@ Aumentar la visibilidad de la tienda y fomentar la interacción y lealtad de los
 
 ### 3. Anuncio de Revista Digital
 
-#### Objetivo
+#### Objetivo:
 Llegar a un público más amplio y generar interés en la tienda y sus servicios.
 
-#### Estrategia
+#### Estrategia:
 - **Selección de Revista**: Elegir revistas digitales populares y confiables en el ámbito de las mascotas y el bienestar animal.
 - **Diseño del Anuncio**:
   - Utilizar imágenes de alta calidad que muestren productos y servicios de ZooCasa.
