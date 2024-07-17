@@ -1,4 +1,4 @@
-#Anuncio de Revista Digital
+# Anuncio de Revista Digital
 
 **Objetivo:** Llegar a un público más amplio y generar interés en la tienda y sus servicios.
 
@@ -30,3 +30,24 @@
 - **Impacto del Anuncio:** Evaluar el tráfico web y las ventas generadas a partir de los anuncios en revistas digitales.
 
 Implementando esta estrategia, ZooCasa podrá aumentar su visibilidad, atraer nuevos clientes y fomentar la lealtad y satisfacción de los actuales, todo mientras promueve el bienestar y cuidado de los animales.
+
+## Anuncio de Revista Digital
+
+### Propuesta 1:
+
+**Anuncio:**
+¡Bienvenidos a ZooCasa, donde el amor y el cuidado son lo primero! Soy [nombre de tu mascota], y en nuestra casa, cada mascota se siente como en el paraíso. Descubre nuestra amplia selección de productos premium y servicios especializados diseñados para consentir a tu amigo peludo. Visítanos en línea o en nuestra tienda física y deja que tu mascota viva la experiencia ZooCasa. #BienestarAnimal #ZooCasa
+
+### Propuesta 2:
+
+**Anuncio:**
+¿Buscas el lugar perfecto para tu mascota? En ZooCasa, somos expertos en hacer que cada cola se mueva de alegría. Desde juguetes hasta alimentos naturales, aquí encontrarás todo lo que necesitas para mantener a tu amigo peludo feliz y saludable. Descubre por qué en ZooCasa, tu mascota siempre se siente como en casa. #ZooCasa #CuidadoAnimal
+
+### Propuesta 3:
+
+**Anuncio:**
+¡Cuida a tu mascota con lo mejor en ZooCasa! Soy [nombre de tu mascota], y en nuestra tienda, el amor y el cuidado son nuestra prioridad número uno. Explora nuestra amplia gama de productos premium y servicios personalizados, diseñados para consentir a tu peludo amigo como se merece. Ven y descubre por qué en ZooCasa, cada mascota es tratada con el mayor cariño. #ZooCasa #AmorAnimal
+
+Estas propuestas mantienen el tono amable y personalizado de ZooCasa, enfocándose en conectar emocionalmente con los dueños de mascotas y asegurando que sus amigos peludos reciban el mejor cuidado y servicio posible.
+
+Concordamos con los resultados que nos ofreció CHAT PGT, ya que fueron acertados y dentro de nuestros parámetros esperados. Con base en los datos arrojados respecto al estudio de Fortalezas, debilidades y amenazas, dimos por hecho que CHAT GPT alucinó, indicando que nosotros como ZooCasa ya contábamos con sitio web y domicilio físico. En los comentarios arrojados mencionaba que debíamos hacer ajustes al sitio web para estar a la par de PET CITY y PETCO. Lo cual no contamos con alguna página web en el internet como para que corroborara y diera este análisis.
